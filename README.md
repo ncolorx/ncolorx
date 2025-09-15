@@ -33,7 +33,5 @@ Here you’ll find my projects, experiments, and ideas — all about Java, Sprin
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-![ncolorx GitHub stats](https://github-readme-stats.vercel.app/api?username=ncolorx&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncolorx&layout=compact&theme=gruvbox)
 
-![preview](https://github.com/user-attachments/assets/303ec49b-b840-414e-a4f8-2bf3fb79b57f)
+
