@@ -1,4 +1,10 @@
-# 👋 Привет, я Господин  
+👋 Welcome, fellow code-driven minds!
+
+I'm ncolorx, a backend developer passionate about building clean, scalable, and high-performance systems.  
+Here you’ll find my projects, experiments, and ideas — all about Java, Spring, microservices, and modern backend architecture.  
+
+🚀 Always coding, always learning, always pushing boundaries.  
+
 
 ## ⚡ Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -26,3 +32,5 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
+![ncolorx GitHub stats](https://github-readme-stats.vercel.app/api?username=ncolorx&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncolorx&layout=compact&theme=radical)
